@@ -37,7 +37,7 @@ sudo python3 packet_analyzer.py -c 100 --csv out.csv --pcap out.pcap
 | `--pcap` | export raw packets to open in Wireshark |
 
 ## Sample output
-Replace this with a screenshot or paste from your own run.
+![Sample output](task1_output_payload_blurred.png)
 
 ## Ethical use
 Only capture traffic on networks you own or have explicit permission to monitor.
